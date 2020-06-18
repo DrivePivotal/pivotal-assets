@@ -1,0 +1,1 @@
+<!-- https://moometric.com/integrations/gsuite/use-gmail-api-update-signatures-gsuite-users-php/ -->
